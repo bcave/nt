@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "598c6275abd446e07f9afaad",
+    "_courseId": "598c6275abd446e07f9afaaa",
+    "_parentId": "598c6275abd446e07f9afaaa",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "How entrepreneurs define themselves",
+    "duration": "15 minutes",
+    "_refId": "58b03f6a6faa37e7449513ab",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_hoverGraphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "58b02e8d6faa37e744951399"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_backgroundImage": {
+        "src": {
+          "_size": "large",
+          "_type": "image",
+          "_extension": "png",
+          "_id": "58c9547713b751d90c4ed45a"
+        }
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View",
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b0435a6faa37e7449513e9"
+      }
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58b040a16faa37e7449513e2"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_fixed": true,
+      "_position": "top",
+      "_size": "cover",
+      "src": {
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "592e999902778c512a0afb9b"
+      }
+    },
+    "_heroImage": {
+      "title": "What makes an entrepreneur?",
+      "_graphic": {
+        "_large": {
+          "src": {
+            "_id": "58b41ffc6faa37e744951408",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "title": "How entrepreneurs define themselves",
+    "_type": "page",
+    "_courseOrder": "0"
+  }
+]

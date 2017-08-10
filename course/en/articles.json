@@ -1,0 +1,814 @@
+[
+  {
+    "_id": "598c6275abd446e07f9afacb",
+    "_sortOrder": 0,
+    "_parentId": "598c6275abd446e07f9afaad",
+    "_courseId": "598c6275abd446e07f9afaaa",
+    "__v": 0,
+    "displayTitle": "You, your ideas, and good timing",
+    "_refId": "58b40a826faa37e7449513f1",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-5",
+    "title": "You, your ideas, and good timing",
+    "_type": "article",
+    "_courseOrder": "0-0"
+  },
+  {
+    "_id": "598c6275abd446e07f9afaae",
+    "_courseId": "598c6275abd446e07f9afaaa",
+    "_parentId": "598c6275abd446e07f9afaad",
+    "_sortOrder": 1,
+    "__v": 0,
+    "_refId": "58b03f6a6faa37e7449513ae",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": true
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_id": "58ad7fa450d3bf600d233ae7",
+              "_extension": "png",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Do I have what it takes?",
+    "_type": "article",
+    "_courseOrder": "0-1"
+  },
+  {
+    "_id": "598c6275abd446e07f9afab1",
+    "_sortOrder": 2,
+    "_parentId": "598c6275abd446e07f9afaad",
+    "_courseId": "598c6275abd446e07f9afaaa",
+    "__v": 0,
+    "_refId": "58b03f6a6faa37e7449513af",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": true
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Give your idea a reality check",
+    "_type": "article",
+    "_courseOrder": "0-2"
+  },
+  {
+    "_id": "598c6275abd446e07f9afab5",
+    "_sortOrder": 3,
+    "_parentId": "598c6275abd446e07f9afaad",
+    "_courseId": "598c6275abd446e07f9afaaa",
+    "__v": 0,
+    "_refId": "58b03f6a6faa37e7449513b0",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": true
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Make sure your idea is unique",
+    "_type": "article",
+    "_courseOrder": "0-3"
+  },
+  {
+    "_id": "598c6275abd446e07f9afab9",
+    "_sortOrder": 4,
+    "_parentId": "598c6275abd446e07f9afaad",
+    "_courseId": "598c6275abd446e07f9afaaa",
+    "__v": 0,
+    "_refId": "58b03f6a6faa37e7449513b1",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": true
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-7",
+    "title": "Is this business a good fit for you?",
+    "_type": "article",
+    "_courseOrder": "0-4"
+  },
+  {
+    "_id": "598c6275abd446e07f9afabc",
+    "_sortOrder": 5,
+    "_parentId": "598c6275abd446e07f9afaad",
+    "_courseId": "598c6275abd446e07f9afaaa",
+    "__v": 0,
+    "_refId": "58b03f6a6faa37e7449513b2",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": true
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": true,
+            "_height": 200,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "png",
+              "_id": "58ca992d13b751d90c4ed485"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Get the timing right",
+    "_type": "article",
+    "_courseOrder": "0-5"
+  },
+  {
+    "_id": "598c6275abd446e07f9afad1",
+    "_sortOrder": 6,
+    "_parentId": "598c6275abd446e07f9afaad",
+    "_courseId": "598c6275abd446e07f9afaaa",
+    "__v": 0,
+    "_refId": "593920eb08a265827f217b48",
+    "displayTitle": "Ready to become an entrepreneur?",
+    "_progress": {
+      "_isEnabled": false
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "cover",
+      "src": {
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5950dcd06bf9a4dd791814e7"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Ready to become an entrepreneur?",
+    "_type": "article",
+    "_courseOrder": "0-6"
+  },
+  {
+    "_id": "598c6275abd446e07f9afac0",
+    "_sortOrder": 7,
+    "_parentId": "598c6275abd446e07f9afaad",
+    "_courseId": "598c6275abd446e07f9afaaa",
+    "__v": 0,
+    "_refId": "58b03f6a6faa37e7449513b3",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": true
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Take a reality check",
+    "_type": "article",
+    "_courseOrder": "0-7"
+  },
+  {
+    "_id": "598c6275abd446e07f9afac4",
+    "_sortOrder": 8,
+    "_parentId": "598c6275abd446e07f9afaad",
+    "_courseId": "598c6275abd446e07f9afaaa",
+    "__v": 0,
+    "_refId": "58b03f6a6faa37e7449513b4",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Nail that value proposition",
+    "_type": "article",
+    "_courseOrder": "0-8"
+  },
+  {
+    "_id": "598c6275abd446e07f9afac8",
+    "_sortOrder": 9,
+    "_parentId": "598c6275abd446e07f9afaad",
+    "_courseId": "598c6275abd446e07f9afaaa",
+    "__v": 0,
+    "_refId": "58b03f6a6faa37e7449513b6",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Take a look in the mirror",
+    "_type": "article",
+    "_courseOrder": "0-9"
+  },
+  {
+    "_id": "598c6275abd446e07f9aface",
+    "_sortOrder": 10,
+    "_parentId": "598c6275abd446e07f9afaad",
+    "_courseId": "598c6275abd446e07f9afaaa",
+    "__v": 0,
+    "_refId": "58b58ddc6faa37e74495145b",
+    "displayTitle": "How entrepreneurs define themselves. Let's wrap it up",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-4",
+    "title": "How entrepreneurs define themselves. Let's wrap it up",
+    "_type": "article",
+    "_courseOrder": "0-10"
+  }
+]
