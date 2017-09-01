@@ -1,8 +1,8 @@
 {
-  "_id": "598c6275abd446e07f9afaac",
-  "_menu": "boxMenu",
-  "_courseId": "598c6275abd446e07f9afaaa",
-  "__v": 630,
+  "_id": "59a96b98f312fa4e1c694979",
+  "_menu": "playlistMenu",
+  "_courseId": "59a96b98f312fa4e1c694977",
+  "__v": 1220,
   "_themeSettings": {
     "_colors": {
       "_labelAlternative": {
@@ -343,11 +343,11 @@
       "_isEnabled": false
     },
     "_tracker": {
-      "_pushData": "/api/usersCourse",
-      "_getData": "/api/usersCourse",
-      "_login": "/api/login",
-      "_auth": "/api/isAuthenticated",
-      "_isEnabled": true
+      "_pushData": "../../api/usersCourse",
+      "_getData": "../../api/usersCourse",
+      "_login": "../../api/login",
+      "_auth": "../../api/isAuthenticated",
+      "_isEnabled": false
     }
   },
   "_assets": [
@@ -359,15 +359,6 @@
     },
     {
       "_id": "58af18c350d3bf600d233b6e"
-    },
-    {
-      "_id": "58f78f7316078b376ae9d0aa"
-    },
-    {
-      "_id": "58f78e0816078b376ae9d0a7"
-    },
-    {
-      "_id": "58f78fbd16078b376ae9d0ad"
     },
     {
       "_id": "598c3250abd446e07f9af8c7"
@@ -388,7 +379,7 @@
       "_id": "58b3fd8b6faa37e7449513ee"
     },
     {
-      "_id": "58b41ffc6faa37e744951408"
+      "_id": "59006c27f06989ac6bf1a765"
     },
     {
       "_id": "58b040a16faa37e7449513e2"
@@ -397,63 +388,82 @@
       "_id": "58b0435a6faa37e7449513e9"
     },
     {
-      "_id": "58c9547713b751d90c4ed45a"
-    },
-    {
       "_id": "58b02e8d6faa37e744951399"
     },
     {
-      "_id": "58ad7fa450d3bf600d233ae7"
+      "_id": "58b6b5df6faa37e74495147c"
     },
     {
-      "_id": "58ca992d13b751d90c4ed485"
+      "_id": "5954d4f6e0711ea656fe2a2b"
     },
     {
-      "_id": "5950dcd06bf9a4dd791814e7"
+      "_id": "598870eb7d86c20e2a40fb45"
     },
     {
-      "_id": "595263daedb3d22028a434cd"
+      "_id": "598870ae7d86c20e2a40fb43"
     },
     {
-      "_id": "598829177d86c20e2a40fb0b"
+      "_id": "59886f5c7d86c20e2a40fb42"
     },
     {
-      "_id": "598829267d86c20e2a40fb0c"
+      "_id": "59886f4b7d86c20e2a40fb41"
     },
     {
-      "_id": "598829337d86c20e2a40fb0d"
+      "_id": "59886f427d86c20e2a40fb40"
     },
     {
-      "_id": "598829407d86c20e2a40fb0e"
+      "_id": "5954f30be0711ea656fe2a34"
     },
     {
-      "_id": "5988294a7d86c20e2a40fb0f"
+      "_id": "594d430287b6e2594d6d17bf"
     },
     {
-      "_id": "5952642eedb3d22028a434d1"
+      "_id": "5950df396bf9a4dd791814eb"
     },
     {
-      "_id": "59526515edb3d22028a434d4"
+      "_id": "5954f9c8e0711ea656fe2a37"
     },
     {
-      "_id": "595264a2edb3d22028a434d3"
+      "_id": "598876667d86c20e2a40fb47"
+    },
+    {
+      "_id": "5988766f7d86c20e2a40fb48"
+    },
+    {
+      "_id": "598876797d86c20e2a40fb49"
+    },
+    {
+      "_id": "598876817d86c20e2a40fb4a"
+    },
+    {
+      "_id": "5954d58ae0711ea656fe2a2c"
+    },
+    {
+      "_id": "5954d59be0711ea656fe2a2d"
+    },
+    {
+      "_id": "598875f87d86c20e2a40fb46"
+    },
+    {
+      "_id": "5950eb196bf9a4dd791814fb"
+    },
+    {
+      "_id": "5954ef8ee0711ea656fe2a33"
     }
   ],
   "_components": [
     "text",
-    "graphic",
-    "accordion",
     "videoStream",
     "narrative",
+    "graphic",
+    "accordion",
+    "checklist",
     "mcq",
-    "matching",
-    "dragAndDrop"
+    "matching"
   ],
   "_extensions": [
     "progress",
     "achievements",
-    "courseAttainment",
-    "branding",
-    "tracker"
+    "courseAttainment"
   ]
 }

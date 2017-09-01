@@ -1,11 +1,12 @@
 {
-  "_id": "598c6275abd446e07f9afaaa",
-  "_createdAt": 1502372469055,
-  "_modifiedAt": 1502372521216,
-  "__v": 1,
-  "_refId": "58b01c1050d3bf600d233b89",
-  "displayTitle": "Speak the language of entrepreneurs",
+  "_id": "59a96b98f312fa4e1c694977",
+  "_createdAt": 1504275352409,
+  "_modifiedAt": 1504276576032,
+  "__v": 2,
+  "_refId": "58ebdb28192f4e895e96ad7f",
+  "displayTitle": "Brand<br>",
   "_theme": "58b69e3d6faa37e74495146f",
+  "body": "",
   "_swipeMenu": {
     "_shouldShowProgressBarsOnMenus": true,
     "_menuContentItems": [],
@@ -22,6 +23,14 @@
       "_size": "cover"
     },
     "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
       "_contentWidth": 70,
       "textAlignment": "left",
       "layout": "center"
@@ -47,6 +56,14 @@
       "_size": "cover"
     },
     "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
       "_contentWidth": 70,
       "textAlignment": "left",
       "layout": "center"
@@ -82,6 +99,8 @@
   },
   "_boxMenu": {
     "_menuContentItems": [],
+    "_itemsPerRowMedium": 2,
+    "_itemsPerRowLarge": 2,
     "_shouldShowProgressBarsOnMenus": true,
     "_mobileBackgroundImage": {
       "_repeat": false,
@@ -96,6 +115,14 @@
       "_size": "cover"
     },
     "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
       "_contentWidth": 70,
       "textAlignment": "left",
       "layout": "center"
@@ -113,90 +140,29 @@
     "_isEnabled": true
   },
   "_courseAttainment": {
-    "completionBody": "<p>Well done! You have completed this course.</p>",
-    "closeWindowText": "Exit course",
-    "_shouldUseCorrectQuestions": false,
+    "closeWindowText": "Back to DBA",
+    "_shouldUseCorrectQuestions": true,
     "_shouldCloseWindowOnCourseAttained": true,
     "_shouldHideSummaryAndIcon": true,
-    "completionNotifyTitle": "Course attained",
-    "completionTitle": "Course complete",
+    "completionNotifyTitle": "Course complete!",
+    "completionTitle": "Course complete!",
     "_attainmentMethod": "components",
     "_isEnabled": true,
-    "title": " "
-  },
-  "_branding": {
-    "copyright": "<p style=\"text-align: center;\"><a href=\"http://www.digitalbusinessacademyuk.com/terms-conditions\" target=\"_blank\">Terms</a>&nbsp; &nbsp;&nbsp;<a href=\"http://www.digitalbusinessacademyuk.com/privacy-policy\" target=\"_blank\">Privacy</a>&nbsp; &nbsp;&nbsp;<a href=\"http://www.digitalbusinessacademyuk.com/faqs\" target=\"_blank\">FAQs</a></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">2017 Tech City UK ©</p>",
-    "_shouldPlaceFooterLogosWithCopyright": true,
-    "_logos": {
-      "_secondaryLogo": {
-        "_isLocatedInFooter": false,
-        "alignment": "right"
-      },
-      "_primaryLogo": {
-        "_isLocatedInFooter": true,
-        "alignment": "center",
-        "src": {
-          "_id": "598c3250abd446e07f9af8c7",
-          "_extension": "png",
-          "_type": "image"
-        }
-      }
-    },
-    "_isEnabled": true
+    "title": "Course complete!"
   },
   "_achievements": {
-    "body": "<p style=\"text-align: center;\">Welcome to rewards, where you can unlock some of the great goodies DBA has to offer...</p>",
+    "body": "<p style=\"text-align: right;\">Keep track of how many points you have unlocked.&nbsp;</p><p style=\"text-align: right;\"> </p><p style=\"text-align: right;\">You can&nbsp;<a href=\"http://www.digitalbusinessacademyuk.com/#/rewards\" target=\"_blank\">spend your points on the rewards page</a>. &nbsp;&nbsp;</p>",
     "_badges": {
       "_items": [
         {
-          "itemIndex": 1,
-          "_id": "58f78e3316078b376ae9d0a9",
-          "title": "Discount code",
-          "body": "<p>This reward lets you apply for money off at one of our discount partners</p>",
-          "_pointsRequired": 30,
-          "_badgeCompletionType": "points",
-          "_graphic": {
-            "src": {
-              "_id": "58f78f7316078b376ae9d0aa",
-              "_extension": "png",
-              "_type": "image"
-            }
-          }
-        },
-        {
-          "body": "<p>This reward entitled you to claim your free desk at one of our exclusive working spaces.</p>",
           "_id": "58b035ec6faa37e7449513a8",
           "itemIndex": 0,
-          "title": "Free desk space",
-          "_pointsRequired": 60,
-          "_badgeCompletionType": "points",
-          "_graphic": {
-            "src": {
-              "_id": "58f78e0816078b376ae9d0a7",
-              "_extension": "png",
-              "_type": "image"
-            }
-          }
-        },
-        {
-          "body": "<p>This reward gives you a queue jump to interview for a paid position at some of the UKs best tech companies</p>",
-          "itemIndex": 2,
-          "_id": "58f78fa016078b376ae9d0ac",
-          "title": "Internship fast track",
-          "_pointsRequired": 100,
-          "_badgeCompletionType": "points",
-          "_graphic": {
-            "src": {
-              "_id": "58f78fbd16078b376ae9d0ad",
-              "_extension": "png",
-              "_type": "image"
-            }
-          }
+          "_badgeCompletionType": "components"
         }
       ],
-      "badgeNotifyTitle": "You've unlocked a new reward!",
+      "badgeNotifyTitle": "You earned a badge!",
       "badgesLabel": "Badges",
-      "badgesName": "Rewards",
+      "badgesName": "Badges",
       "_isEnabled": false
     },
     "_stars": {
@@ -207,6 +173,7 @@
       "_isEnabled": false
     },
     "_lives": {
+      "_shouldResetCourseOnZeroLives": false,
       "_totalLives": 3,
       "livesLabel": "Lives",
       "livesName": "Lives",
@@ -218,7 +185,7 @@
       "pointsName": "Points",
       "_isEnabled": true
     },
-    "title": "Reward Points",
+    "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Points",
     "_isEnabled": true
   },
   "_pageBackgroundImage": {
@@ -231,12 +198,12 @@
     "_backgroundImage": {
       "_repeat": false,
       "_fixed": true,
-      "_position": "top",
+      "_position": "center",
       "_size": "cover",
       "src": {
-        "_type": "image",
+        "_id": "592e999902778c512a0afb9b",
         "_extension": "jpeg",
-        "_id": "592e999902778c512a0afb9b"
+        "_type": "image"
       }
     }
   },
@@ -257,10 +224,25 @@
   },
   "_globals": {
     "_questionAttempts": {
-      "_attempts": 10,
-      "_shouldUseGlobalAttempts": true
+      "_attempts": 1,
+      "_shouldUseGlobalAttempts": false
     },
     "_feedbackText": {
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
       "incorrectFinalFeedback": "Incorrect",
       "incorrectNotFinalFeedback": "Incorrect, try again",
       "partlyCorrectFinalFeedback": "Partly correct",
@@ -319,32 +301,33 @@
     "_shouldHideMenu": true
   },
   "_version": {
-    "_masterVersionId": "598b06d32cb2f32b65813d9a",
-    "versionTitle": "1/1",
-    "_isLanguageVersion": false,
-    "_isVersion": true
+    "_isVersion": false,
+    "_masterVersionId": null,
+    "versionTitle": null,
+    "_isLanguageVersion": false
   },
   "_reviews": {
     "_reviews": [
       {
-        "_createdBy": "5897aece50d3bf600d233ab1",
-        "title": "Heika Access",
-        "_id": "598331ccae79a0431640a53d",
+        "_id": "59007117f06989ac6bf1a767",
+        "title": "Bens V1 Review",
+        "_createdBy": "58c9070213b751d90c4ed421",
         "_reviewers": [
           {
-            "_reviewer": "58ad716650d3bf600d233adb",
-            "_id": "598331ccae79a0431640a53e",
+            "_completedAt": "Fri Jun 02 2017 13:35:41 GMT+0000 (UTC)",
+            "_id": "59007117f06989ac6bf1a768",
+            "_reviewer": "5897aece50d3bf600d233ab1",
             "reviewFeedback": "",
             "_hasPassed": true,
-            "_status": "notStarted"
+            "_status": "complete"
           }
         ],
         "_hasPrivateAnnotations": false,
-        "_isActive": true,
-        "_createdAt": "Thu Aug 03 2017 14:23:08 GMT+0000 (UTC)"
+        "_isActive": false,
+        "_createdAt": "Wed Apr 26 2017 10:06:15 GMT+0000 (UTC)"
       }
     ],
-    "_isUnderReview": true
+    "_isUnderReview": false
   },
   "_categoryGroups": [],
   "_categories": [],
@@ -353,6 +336,6 @@
     "_textAlign": "center",
     "_fontSize": ""
   },
-  "title": "1.Speak the language of entrepreneurs master UCL Edits 1/1",
+  "title": "Brand Export test",
   "_type": "course"
 }
